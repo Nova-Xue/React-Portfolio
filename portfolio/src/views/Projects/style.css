@@ -1,0 +1,11 @@
+img{
+    max-width: 100%;
+}
+.link{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+a{
+    color: black;
+}
