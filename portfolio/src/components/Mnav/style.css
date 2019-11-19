@@ -1,0 +1,8 @@
+.nav{
+    background-image: url("/img/Purple 3d Cubes Soundcloud Banner (1).png");
+    background-size: cover;
+    height: 100px;
+}
+.nav-link{
+    color: grey;
+}
